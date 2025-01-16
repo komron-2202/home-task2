@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\c#1\s2prog\obj\Debug\net9.0\s2prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\c#1\s2prog\obj\Debug\net9.0\s2prog.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\c#1\s2prog\obj\Debug\net9.0\s2prog.AssemblyInfo.cs
+C:\Users\user\Desktop\c#1\s2prog\obj\Debug\net9.0\s2prog.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c#1\s2prog\bin\Debug\net9.0\s2prog.exe
+C:\Users\user\Desktop\c#1\s2prog\bin\Debug\net9.0\s2prog.deps.json
+C:\Users\user\Desktop\c#1\s2prog\bin\Debug\net9.0\s2prog.runtimeconfig.json
+C:\Users\user\Desktop\c#1\s2prog\bin\Debug\net9.0\s2prog.dll
+C:\Users\user\Desktop\c#1\s2prog\bin\Debug\net9.0\s2prog.pdb
+C:\Users\user\Desktop\c#1\s2prog\obj\Debug\net9.0\s2prog.dll
+C:\Users\user\Desktop\c#1\s2prog\obj\Debug\net9.0\refint\s2prog.dll
+C:\Users\user\Desktop\c#1\s2prog\obj\Debug\net9.0\s2prog.pdb
+C:\Users\user\Desktop\c#1\s2prog\obj\Debug\net9.0\s2prog.genruntimeconfig.cache
+C:\Users\user\Desktop\c#1\s2prog\obj\Debug\net9.0\ref\s2prog.dll

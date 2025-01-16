@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\c#1\e8prog\bin\Debug\net9.0\e8prog.exe
+C:\Users\user\Desktop\c#1\e8prog\bin\Debug\net9.0\e8prog.deps.json
+C:\Users\user\Desktop\c#1\e8prog\bin\Debug\net9.0\e8prog.runtimeconfig.json
+C:\Users\user\Desktop\c#1\e8prog\bin\Debug\net9.0\e8prog.dll
+C:\Users\user\Desktop\c#1\e8prog\bin\Debug\net9.0\e8prog.pdb
+C:\Users\user\Desktop\c#1\e8prog\obj\Debug\net9.0\e8prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\c#1\e8prog\obj\Debug\net9.0\e8prog.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\c#1\e8prog\obj\Debug\net9.0\e8prog.AssemblyInfo.cs
+C:\Users\user\Desktop\c#1\e8prog\obj\Debug\net9.0\e8prog.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c#1\e8prog\obj\Debug\net9.0\e8prog.dll
+C:\Users\user\Desktop\c#1\e8prog\obj\Debug\net9.0\refint\e8prog.dll
+C:\Users\user\Desktop\c#1\e8prog\obj\Debug\net9.0\e8prog.pdb
+C:\Users\user\Desktop\c#1\e8prog\obj\Debug\net9.0\e8prog.genruntimeconfig.cache
+C:\Users\user\Desktop\c#1\e8prog\obj\Debug\net9.0\ref\e8prog.dll

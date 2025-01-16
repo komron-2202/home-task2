@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\c#1\th3prog\obj\Debug\net9.0\th3prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\c#1\th3prog\obj\Debug\net9.0\th3prog.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\c#1\th3prog\obj\Debug\net9.0\th3prog.AssemblyInfo.cs
+C:\Users\user\Desktop\c#1\th3prog\obj\Debug\net9.0\th3prog.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c#1\th3prog\bin\Debug\net9.0\th3prog.exe
+C:\Users\user\Desktop\c#1\th3prog\bin\Debug\net9.0\th3prog.deps.json
+C:\Users\user\Desktop\c#1\th3prog\bin\Debug\net9.0\th3prog.runtimeconfig.json
+C:\Users\user\Desktop\c#1\th3prog\bin\Debug\net9.0\th3prog.dll
+C:\Users\user\Desktop\c#1\th3prog\bin\Debug\net9.0\th3prog.pdb
+C:\Users\user\Desktop\c#1\th3prog\obj\Debug\net9.0\th3prog.dll
+C:\Users\user\Desktop\c#1\th3prog\obj\Debug\net9.0\refint\th3prog.dll
+C:\Users\user\Desktop\c#1\th3prog\obj\Debug\net9.0\th3prog.pdb
+C:\Users\user\Desktop\c#1\th3prog\obj\Debug\net9.0\th3prog.genruntimeconfig.cache
+C:\Users\user\Desktop\c#1\th3prog\obj\Debug\net9.0\ref\th3prog.dll

@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\c#1\s7prog\obj\Debug\net9.0\s7prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\c#1\s7prog\obj\Debug\net9.0\s7prog.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\c#1\s7prog\obj\Debug\net9.0\s7prog.AssemblyInfo.cs
+C:\Users\user\Desktop\c#1\s7prog\obj\Debug\net9.0\s7prog.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c#1\s7prog\bin\Debug\net9.0\s7prog.exe
+C:\Users\user\Desktop\c#1\s7prog\bin\Debug\net9.0\s7prog.deps.json
+C:\Users\user\Desktop\c#1\s7prog\bin\Debug\net9.0\s7prog.runtimeconfig.json
+C:\Users\user\Desktop\c#1\s7prog\bin\Debug\net9.0\s7prog.dll
+C:\Users\user\Desktop\c#1\s7prog\bin\Debug\net9.0\s7prog.pdb
+C:\Users\user\Desktop\c#1\s7prog\obj\Debug\net9.0\s7prog.dll
+C:\Users\user\Desktop\c#1\s7prog\obj\Debug\net9.0\refint\s7prog.dll
+C:\Users\user\Desktop\c#1\s7prog\obj\Debug\net9.0\s7prog.pdb
+C:\Users\user\Desktop\c#1\s7prog\obj\Debug\net9.0\s7prog.genruntimeconfig.cache
+C:\Users\user\Desktop\c#1\s7prog\obj\Debug\net9.0\ref\s7prog.dll

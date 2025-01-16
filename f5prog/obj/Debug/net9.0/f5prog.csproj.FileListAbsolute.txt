@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\c#1\f5prog\obj\Debug\net9.0\f5prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\c#1\f5prog\obj\Debug\net9.0\f5prog.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\c#1\f5prog\obj\Debug\net9.0\f5prog.AssemblyInfo.cs
+C:\Users\user\Desktop\c#1\f5prog\obj\Debug\net9.0\f5prog.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c#1\f5prog\bin\Debug\net9.0\f5prog.exe
+C:\Users\user\Desktop\c#1\f5prog\bin\Debug\net9.0\f5prog.deps.json
+C:\Users\user\Desktop\c#1\f5prog\bin\Debug\net9.0\f5prog.runtimeconfig.json
+C:\Users\user\Desktop\c#1\f5prog\bin\Debug\net9.0\f5prog.dll
+C:\Users\user\Desktop\c#1\f5prog\bin\Debug\net9.0\f5prog.pdb
+C:\Users\user\Desktop\c#1\f5prog\obj\Debug\net9.0\f5prog.dll
+C:\Users\user\Desktop\c#1\f5prog\obj\Debug\net9.0\refint\f5prog.dll
+C:\Users\user\Desktop\c#1\f5prog\obj\Debug\net9.0\f5prog.pdb
+C:\Users\user\Desktop\c#1\f5prog\obj\Debug\net9.0\f5prog.genruntimeconfig.cache
+C:\Users\user\Desktop\c#1\f5prog\obj\Debug\net9.0\ref\f5prog.dll

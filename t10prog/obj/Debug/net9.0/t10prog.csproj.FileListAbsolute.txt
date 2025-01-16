@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\c#1\t10prog\bin\Debug\net9.0\t10prog.exe
+C:\Users\user\Desktop\c#1\t10prog\bin\Debug\net9.0\t10prog.deps.json
+C:\Users\user\Desktop\c#1\t10prog\bin\Debug\net9.0\t10prog.runtimeconfig.json
+C:\Users\user\Desktop\c#1\t10prog\bin\Debug\net9.0\t10prog.dll
+C:\Users\user\Desktop\c#1\t10prog\bin\Debug\net9.0\t10prog.pdb
+C:\Users\user\Desktop\c#1\t10prog\obj\Debug\net9.0\t10prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\c#1\t10prog\obj\Debug\net9.0\t10prog.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\c#1\t10prog\obj\Debug\net9.0\t10prog.AssemblyInfo.cs
+C:\Users\user\Desktop\c#1\t10prog\obj\Debug\net9.0\t10prog.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c#1\t10prog\obj\Debug\net9.0\t10prog.dll
+C:\Users\user\Desktop\c#1\t10prog\obj\Debug\net9.0\refint\t10prog.dll
+C:\Users\user\Desktop\c#1\t10prog\obj\Debug\net9.0\t10prog.pdb
+C:\Users\user\Desktop\c#1\t10prog\obj\Debug\net9.0\t10prog.genruntimeconfig.cache
+C:\Users\user\Desktop\c#1\t10prog\obj\Debug\net9.0\ref\t10prog.dll

@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\c#1\f4prog\bin\Debug\net9.0\f4prog.exe
+C:\Users\user\Desktop\c#1\f4prog\bin\Debug\net9.0\f4prog.deps.json
+C:\Users\user\Desktop\c#1\f4prog\bin\Debug\net9.0\f4prog.runtimeconfig.json
+C:\Users\user\Desktop\c#1\f4prog\bin\Debug\net9.0\f4prog.dll
+C:\Users\user\Desktop\c#1\f4prog\bin\Debug\net9.0\f4prog.pdb
+C:\Users\user\Desktop\c#1\f4prog\obj\Debug\net9.0\f4prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\c#1\f4prog\obj\Debug\net9.0\f4prog.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\c#1\f4prog\obj\Debug\net9.0\f4prog.AssemblyInfo.cs
+C:\Users\user\Desktop\c#1\f4prog\obj\Debug\net9.0\f4prog.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c#1\f4prog\obj\Debug\net9.0\f4prog.dll
+C:\Users\user\Desktop\c#1\f4prog\obj\Debug\net9.0\refint\f4prog.dll
+C:\Users\user\Desktop\c#1\f4prog\obj\Debug\net9.0\f4prog.pdb
+C:\Users\user\Desktop\c#1\f4prog\obj\Debug\net9.0\f4prog.genruntimeconfig.cache
+C:\Users\user\Desktop\c#1\f4prog\obj\Debug\net9.0\ref\f4prog.dll

@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\c#1\e11prog\obj\Debug\net9.0\e11prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\c#1\e11prog\obj\Debug\net9.0\e11prog.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\c#1\e11prog\obj\Debug\net9.0\e11prog.AssemblyInfo.cs
+C:\Users\user\Desktop\c#1\e11prog\obj\Debug\net9.0\e11prog.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c#1\e11prog\obj\Debug\net9.0\e11prog.sourcelink.json
+C:\Users\user\Desktop\c#1\e11prog\bin\Debug\net9.0\e11prog.exe
+C:\Users\user\Desktop\c#1\e11prog\bin\Debug\net9.0\e11prog.deps.json
+C:\Users\user\Desktop\c#1\e11prog\bin\Debug\net9.0\e11prog.runtimeconfig.json
+C:\Users\user\Desktop\c#1\e11prog\bin\Debug\net9.0\e11prog.dll
+C:\Users\user\Desktop\c#1\e11prog\bin\Debug\net9.0\e11prog.pdb
+C:\Users\user\Desktop\c#1\e11prog\obj\Debug\net9.0\e11prog.dll
+C:\Users\user\Desktop\c#1\e11prog\obj\Debug\net9.0\refint\e11prog.dll
+C:\Users\user\Desktop\c#1\e11prog\obj\Debug\net9.0\e11prog.pdb
+C:\Users\user\Desktop\c#1\e11prog\obj\Debug\net9.0\e11prog.genruntimeconfig.cache
+C:\Users\user\Desktop\c#1\e11prog\obj\Debug\net9.0\ref\e11prog.dll
